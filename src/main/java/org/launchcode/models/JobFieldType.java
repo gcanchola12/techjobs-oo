@@ -1,8 +1,5 @@
 package org.launchcode.models;
 
-/**
- * Created by LaunchCode
- */
 public enum JobFieldType {
 
     EMPLOYER ("Employer"),
